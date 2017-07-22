@@ -22,6 +22,10 @@ eg myTemplate.shader.tt will be compiled to myTemplate.shader in the same locati
 # Examples
 Look in the Test folder for an example of file include and a for loop creating mutliple ShaderLab properties.
 
+# TODO
+* Try and add custom icons for *.shader.tt files
+* Work out a way to add dependencies between shaders and include files
+
 # Reference
 https://github.com/mono/t4
 http://www.gamasutra.com/blogs/ByronMayne/20160121/258356/Code_Generation_in_Unity.php
