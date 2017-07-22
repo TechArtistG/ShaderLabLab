@@ -1,0 +1,8 @@
+<#  
+       for(int c = 0; c < 5; c++)
+       {
+#>
+_commonProp<#=c#>  ("included prop <#=c#>", Float) = 0 
+<#            
+       }
+#>  
