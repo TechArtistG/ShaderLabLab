@@ -15,9 +15,9 @@ Unity's ShaderLab lanuages lacks any kind of preprocessing directives.  ShaderLa
 ShaderLabLab uses the T4 text template system:
 https://msdn.microsoft.com/en-us/library/bb126445.aspx
 
-ShaderLabLabProcessor defines a custom asset processor which catches all *.shader.tt asset saves.  It then processes the tempalte using Mono.TextTemplating and outputs a shader file of the same name.
+ShaderLabLabProcessor defines a custom asset processor which catches all *.shader.tt asset saves.  It then processes the template using Mono.TextTemplating and outputs a shader file of the same name.
 
-eg myTemplate.shader.tt will be compiled to myTemplate.shader in the same location as the tempalte.
+eg myTemplate.shader.tt will be compiled to myTemplate.shader in the same location as the template.
 
 # Examples
 Look in the Test folder for an example of file include and a for loop creating mutliple ShaderLab properties.
