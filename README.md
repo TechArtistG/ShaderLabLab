@@ -2,7 +2,7 @@
 A system using T4 Templates to generate Unity ShaderLab code in the Editor
 
 # Why?
-Unity's ShaderLab lanuages lacks any kind of preprocessing directives.  ShaderLabLab provides templating functionality to overcome the limiations of ShaderLab and even shader code comilation directives.  You could even auto generate extended custom GUI scripts.
+Unity's ShaderLab lanuages lacks any kind of preprocessing directives.  ShaderLabLab provides templating functionality to overcome the limiations of ShaderLab and even shader code compilation directives.  You could even auto generate extended custom GUI scripts.
 
 # Common Uses 
 * File Includes eg include common Properties between shaders
