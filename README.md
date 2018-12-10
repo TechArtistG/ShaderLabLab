@@ -8,7 +8,7 @@ Unity's ShaderLab lanuages lacks any kind of preprocessing directives.  ShaderLa
 * File Includes eg include common Properties between shaders
 * Precompile control blocks: If, For etc
 * Full C# logic avaliable, could write out custom GUI scripts
-* Read list of SahderLab properties from external list and generate Properties and global variables
+* Read list of ShaderLab properties from external list and generate Properties and global variables
 * Complex shader variant creation
 
 # How it works
